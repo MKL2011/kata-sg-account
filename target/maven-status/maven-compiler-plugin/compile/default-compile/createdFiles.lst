@@ -1,0 +1,10 @@
+sg/account/kata/operation/OperationType.class
+sg/account/kata/services/StatementServiceInterface.class
+sg/account/kata/services/AccountServiceInterface.class
+sg/account/kata/services/AccountService.class
+sg/account/kata/client/Client.class
+sg/account/kata/Main.class
+sg/account/kata/services/StatementService.class
+sg/account/kata/account/AccountType.class
+sg/account/kata/operation/Operation.class
+sg/account/kata/account/Account.class
